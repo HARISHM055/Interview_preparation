@@ -1,4 +1,4 @@
-//(leetcode)1922. Count Good Numbers
+//(leetcode)1922. Count Good Numbers using binary exponentiation
 
 class Solution {
     public static long binExp(long x,long y,long mod){
